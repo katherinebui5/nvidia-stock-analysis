@@ -6,3 +6,10 @@ source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
 pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+scipy
